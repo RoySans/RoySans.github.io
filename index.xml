@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RoySans | IT is my passion</title>
+    <link>/</link>
+    <description>Recent content on RoySans | IT is my passion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2019 13:26:36 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privilages Escalation with Sudo</title>
+      <link>/2019/06/privilages-escalation-with-sudo/</link>
+      <pubDate>Fri, 21 Jun 2019 13:26:36 -0400</pubDate>
+      
+      <guid>/2019/06/privilages-escalation-with-sudo/</guid>
+      <description>Pada dasarnya setiap sistem operasi dirancang untuk digunakan dengan banyak pengguna, tujuannya adalah agar sebuah sistem dapat digunakan oleh beberapa pengguna yang berbeda, adapun perbedaan hak akses atau kekuasaan yang dimiliki oleh setiap user. Contohnya saja di Linux ada user root yang memiliki hak akses tertinggi setara Administrator di Windows dengan user root atau Administrator jika di Windows ini kita bisa melakukan apa saja pada sistem Linux kita, berbeda dengan user biasa (Non root) yang memiliki kekuasaan terbatas.</description>
+    </item>
+    
+    <item>
+      <title>Mengatasi Git Push Rejected</title>
+      <link>/2019/06/mengatasi-git-push-rejected/</link>
+      <pubDate>Mon, 17 Jun 2019 06:02:35 -0400</pubDate>
+      
+      <guid>/2019/06/mengatasi-git-push-rejected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting IP Address di CentOS</title>
+      <link>/2019/06/setting-ip-address-di-centos/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/setting-ip-address-di-centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install CentOS on VirtualBox</title>
+      <link>/2019/06/install-centos-on-virtualbox/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/install-centos-on-virtualbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

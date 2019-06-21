@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CentOS on RoySans | IT is my passion</title>
+    <link>/tags/centos/</link>
+    <description>Recent content in CentOS on RoySans | IT is my passion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting IP Address di CentOS</title>
+      <link>/2019/06/setting-ip-address-di-centos/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/setting-ip-address-di-centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install CentOS on VirtualBox</title>
+      <link>/2019/06/install-centos-on-virtualbox/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/install-centos-on-virtualbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
